@@ -1,0 +1,5 @@
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.AssemblyReference.cache
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.Properties.Resources.resources
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.GenerateResource.cache
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Presentacion\obj\Debug\Sol_PuntoVenta.Presentacion.csproj.CoreCompileInputs.cache

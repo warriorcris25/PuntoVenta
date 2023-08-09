@@ -1,0 +1,2 @@
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.AssemblyReference.cache
+D:\crist\Documents\GitHub\CursoC#\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.CoreCompileInputs.cache
